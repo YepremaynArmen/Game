@@ -1,0 +1,4 @@
+notification/sender/Main.class
+notification/sender/Services/RabbitMQProducer.class
+notification/sender/Controllers/LettersController.class
+notification/sender/Config/RabbitMQConfig.class

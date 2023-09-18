@@ -1,0 +1,8 @@
+user/remote/Repositories/UserRemoteRepository.class
+user/remote/Controllers/UserRemoteController.class
+user/remote/Models/QUserRemote.class
+user/remote/Services/UserRemoteService.class
+user/remote/Services/UserRemoteMapper.class
+user/remote/Main.class
+user/remote/Services/UserRemoteServiceImpl.class
+user/remote/Models/UserRemote.class

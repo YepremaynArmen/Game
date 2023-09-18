@@ -1,0 +1,10 @@
+/home/t126/IdeaProjects/GAME/NOTIFICATION SENDER/Cunsumer/src/main/java/notification/sender/Repositories/LettersRepository.java
+/home/t126/IdeaProjects/GAME/NOTIFICATION SENDER/Cunsumer/src/main/java/notification/sender/Services/LettersService.java
+/home/t126/IdeaProjects/GAME/NOTIFICATION SENDER/Cunsumer/src/main/java/notification/sender/Models/Letters.java
+/home/t126/IdeaProjects/GAME/NOTIFICATION SENDER/Cunsumer/src/main/java/notification/sender/Config/RabbitMQConfig.java
+/home/t126/IdeaProjects/GAME/NOTIFICATION SENDER/Cunsumer/src/main/java/notification/sender/Services/RabbitMQConsumer.java
+/home/t126/IdeaProjects/GAME/NOTIFICATION SENDER/Cunsumer/src/main/java/notification/sender/Main.java
+/home/t126/IdeaProjects/GAME/NOTIFICATION SENDER/Cunsumer/src/main/java/notification/sender/Services/LettersServiceImpl.java
+/home/t126/IdeaProjects/GAME/NOTIFICATION SENDER/Cunsumer/src/main/java/notification/sender/Utils/MailStatus.java
+/home/t126/IdeaProjects/GAME/NOTIFICATION SENDER/Cunsumer/src/main/java/notification/sender/Utils/EmailUtil.java
+/home/t126/IdeaProjects/GAME/NOTIFICATION SENDER/Cunsumer/src/main/java/notification/sender/Utils/TLSEmail.java

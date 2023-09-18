@@ -1,0 +1,12 @@
+notification/sender/Repositories/LettersRepository.class
+notification/sender/Main.class
+notification/sender/Models/Letters.class
+notification/sender/Config/RabbitMQConfig$MyFatalExceptionStrategy.class
+notification/sender/Config/RabbitMQConfig.class
+notification/sender/Utils/TLSEmail$1.class
+notification/sender/Utils/MailStatus.class
+notification/sender/Services/LettersService.class
+notification/sender/Utils/EmailUtil.class
+notification/sender/Utils/TLSEmail.class
+notification/sender/Services/LettersServiceImpl.class
+notification/sender/Services/RabbitMQConsumer.class
